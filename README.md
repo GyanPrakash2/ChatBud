@@ -1,6 +1,6 @@
-# Chat_Room - Real-time Encrypted Chat Application
+# ChatBud - Real-time Encrypted Chat Application
 
-Chat_Room is a real-time chat application that allows users to communicate securely and privately in a multi-user environment. The application is built using React JSX, Firebase, and SASS, providing a seamless and encrypted messaging system for enhanced security and confidentiality.
+ChatBud is a real-time chat application that allows users to communicate securely and privately in a multi-user environment. The application is built using React JSX, Firebase, and SASS, providing a seamless and encrypted messaging system for enhanced security and confidentiality.
 
 ## Features
 
